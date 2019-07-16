@@ -1,4 +1,4 @@
-#Задание: уникальность селекторов
+#unique selectors
 
 from selenium import webdriver
 import time
